@@ -1,0 +1,10 @@
+scikit-learn
+joblib
+pytest
+numpy
+pandas
+matplotlib
+dvc
+dvc[gs]
+black
+flake8
